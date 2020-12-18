@@ -1,6 +1,6 @@
 # MacOS Running on the Lenovo M93P Tower
 
-##Supports MacOS 10.15.5 --> 11.1
+## Supports MacOS 10.15.5 --> 11.1
 
 This repo is my active opencore EFI of my Lenovo M93P Tower Hack
 
